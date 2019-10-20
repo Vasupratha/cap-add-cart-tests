@@ -1,0 +1,20 @@
+image: $CI_REGISTRY/cap/containers/build:latest
+
+
+variables: 
+  MAVEN_CLI_OPTS: "-B -s ci_settings.xml -fae"
+  MAVEN_OPTS: "-Dmaven.repo.local=.m2/repository"
+  TZ: Europe/London
+
+test:
+  stage: test
+  when: manual
+  script:
+      - cd cap-hmrc-automation
+      - BrowserStackLocal --key ${BROWSERSTACK_KEY} --daemon start
+      - mvn $MAVEN_CLI_OPTS install -Dtest=MainRunner -Dconfig.properties.path=src/test/resources/config-myStore.properties
+  artifacts:
+    reports:
+      junit:
+        - "**/target/surefire-reports/TEST-*.xml"
+

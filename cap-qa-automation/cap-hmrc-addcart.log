@@ -1,0 +1,72 @@
+2019-10-20 20:10:47.988 INFO  WebDriverManager:860 - Exporting webdriver.chrome.driver as /Users/vasu/.m2/repository/webdriver/chromedriver/mac64/71.0.3578.33/chromedriver
+2019-10-20 20:10:47.990 INFO  DriverFactoryBrowserStack:142 - Instantiating chrome driver
+2019-10-20 20:11:00.879 INFO  DriverFactoryBrowserStack:144 - Finished instantiating chrome driver
+2019-10-20 20:11:07.936 INFO  SignIn_Page:44 - Generted random email id isxoBTxnaYvG01@gmail.com
+2019-10-20 20:11:07.937 INFO  SignIn_Page:58 - Random Email Id to be entered isxoBTxnaYvG01@gmail.com
+2019-10-20 20:11:07.960 INFO  BasePage:289 - Inside send keys try block
+2019-10-20 20:11:07.961 INFO  BasePage:290 - The text to be entered is xoBTxnaYvG01@gmail.com
+2019-10-20 20:11:07.976 INFO  BasePage:293 - After wait in send keys try block
+2019-10-20 20:11:10.707 INFO  CreateAccount_Page:73 - Generted random name isVKAqeEbeYr
+2019-10-20 20:11:10.708 INFO  BasePage:289 - Inside send keys try block
+2019-10-20 20:11:10.708 INFO  BasePage:290 - The text to be entered is VKAqeEbeYr
+2019-10-20 20:11:10.728 INFO  BasePage:293 - After wait in send keys try block
+2019-10-20 20:11:10.988 INFO  CreateAccount_Page:82 - Generted random name isjDWyTUBSXT
+2019-10-20 20:11:10.989 INFO  BasePage:289 - Inside send keys try block
+2019-10-20 20:11:10.991 INFO  BasePage:290 - The text to be entered is jDWyTUBSXT
+2019-10-20 20:11:11.014 INFO  BasePage:293 - After wait in send keys try block
+2019-10-20 20:11:11.307 INFO  CreateAccount_Page:90 - Generted random name isuCaIhtKi
+2019-10-20 20:11:11.307 INFO  CreateAccount_Page:136 - Password generated isuCaIhtKi
+2019-10-20 20:11:11.307 INFO  BasePage:289 - Inside send keys try block
+2019-10-20 20:11:11.308 INFO  BasePage:290 - The text to be entered is uCaIhtKi
+2019-10-20 20:11:11.331 INFO  BasePage:293 - After wait in send keys try block
+2019-10-20 20:11:11.646 INFO  BasePage:289 - Inside send keys try block
+2019-10-20 20:11:11.647 INFO  BasePage:290 - The text to be entered is 
+2019-10-20 20:11:11.673 INFO  BasePage:293 - After wait in send keys try block
+2019-10-20 20:11:11.938 INFO  BasePage:289 - Inside send keys try block
+2019-10-20 20:11:11.938 INFO  BasePage:290 - The text to be entered is 
+2019-10-20 20:11:11.959 INFO  BasePage:293 - After wait in send keys try block
+2019-10-20 20:11:12.101 INFO  BasePage:289 - Inside send keys try block
+2019-10-20 20:11:12.101 INFO  BasePage:290 - The text to be entered is 4851
+2019-10-20 20:11:12.119 INFO  BasePage:293 - After wait in send keys try block
+2019-10-20 20:11:12.292 INFO  BasePage:289 - Inside send keys try block
+2019-10-20 20:11:12.293 INFO  BasePage:290 - The text to be entered is Bennett Village
+2019-10-20 20:11:12.314 INFO  BasePage:293 - After wait in send keys try block
+2019-10-20 20:11:12.517 INFO  BasePage:289 - Inside send keys try block
+2019-10-20 20:11:12.518 INFO  BasePage:290 - The text to be entered is Alabama
+2019-10-20 20:11:12.539 INFO  BasePage:293 - After wait in send keys try block
+2019-10-20 20:11:12.790 INFO  BasePage:289 - Inside send keys try block
+2019-10-20 20:11:12.790 INFO  BasePage:290 - The text to be entered is 12345
+2019-10-20 20:11:12.809 INFO  BasePage:293 - After wait in send keys try block
+2019-10-20 20:11:13.034 INFO  BasePage:289 - Inside send keys try block
+2019-10-20 20:11:13.035 INFO  BasePage:290 - The text to be entered is 0123456789
+2019-10-20 20:11:13.055 INFO  BasePage:293 - After wait in send keys try block
+2019-10-20 20:11:14.835 INFO  CreateAccount_Page:154 - Logging Sign In Password entered on password text field is uCaIhtKi
+2019-10-20 20:11:14.835 INFO  CreateAccount_Page:155 -  Logging Sign In Email entered on email text field xoBTxnaYvG01@gmail.com
+2019-10-20 20:11:16.498 INFO  BasePage:289 - Inside send keys try block
+2019-10-20 20:11:16.498 INFO  BasePage:290 - The text to be entered is xoBTxnaYvG01@gmail.com
+2019-10-20 20:11:16.511 INFO  BasePage:293 - After wait in send keys try block
+2019-10-20 20:11:16.743 INFO  BasePage:289 - Inside send keys try block
+2019-10-20 20:11:16.743 INFO  BasePage:290 - The text to be entered is uCaIhtKi
+2019-10-20 20:11:16.756 INFO  BasePage:293 - After wait in send keys try block
+2019-10-20 20:11:20.095 INFO  BasePage:272 - Successfully Action Moved and Clicked on the WebElement, using locator: <[[ChromeDriver: chrome on MAC (145cf7e63255101772fd0bd36f5f09f7)] -> xpath: //*[@id='block_top_menu']/ul/li[2]]>
+2019-10-20 20:11:20.240 INFO  BasePage:469 - Substring final price tag in double is 26.0
+2019-10-20 20:11:20.241 INFO  BasePage:469 - Substring final price tag in double is 50.99
+2019-10-20 20:11:20.241 INFO  BasePage:469 - Substring final price tag in double is 28.98
+2019-10-20 20:11:20.242 INFO  BasePage:469 - Substring final price tag in double is 30.5
+2019-10-20 20:11:20.242 INFO  BasePage:469 - Substring final price tag in double is 16.4
+2019-10-20 20:11:20.242 INFO  BasePage:479 -  Maximimum dress price is : 50.99index is : 1
+2019-10-20 20:11:20.330 INFO  BasePage:272 - Successfully Action Moved and Clicked on the WebElement, using locator: <[[ChromeDriver: chrome on MAC (145cf7e63255101772fd0bd36f5f09f7)] -> xpath: //*[@class='product_list grid row']/li[2]]>
+2019-10-20 20:11:21.732 INFO  BasePage:272 - Successfully Action Moved and Clicked on the WebElement, using locator: <[[ChromeDriver: chrome on MAC (145cf7e63255101772fd0bd36f5f09f7)] -> xpath: //*[@name='Submit']]>
+2019-10-20 20:11:24.106 INFO  BasePage:272 - Successfully Action Moved and Clicked on the WebElement, using locator: <[[ChromeDriver: chrome on MAC (145cf7e63255101772fd0bd36f5f09f7)] -> xpath: //*[@title='Proceed to checkout']]>
+2019-10-20 20:11:26.650 INFO  BasePage:289 - Inside send keys try block
+2019-10-20 20:11:26.651 INFO  BasePage:290 - The text to be entered is xoBTxnaYvG01@gmail.com
+2019-10-20 20:11:26.675 INFO  BasePage:293 - After wait in send keys try block
+2019-10-20 20:11:26.915 INFO  BasePage:289 - Inside send keys try block
+2019-10-20 20:11:26.915 INFO  BasePage:290 - The text to be entered is uCaIhtKi
+2019-10-20 20:11:26.930 INFO  BasePage:293 - After wait in send keys try block
+2019-10-20 20:12:28.819 ERROR BasePage:92 - Unable to get the right text messageExpected condition failed: waiting for visibility of [[ChromeDriver: chrome on MAC (145cf7e63255101772fd0bd36f5f09f7)] -> xpath: //*[@class='shopping_cart']/a/span] (tried for 60 second(s) with 500 milliseconds interval)
+Build info: version: '3.141.59', revision: 'e82be7d358', time: '2018-11-14T08:17:03'
+System info: host: 'Vasuprathas-MBP', ip: '2a02:c7d:3ccf:6b00:2c90:7625:447b:821b%en0', os.name: 'Mac OS X', os.arch: 'x86_64', os.version: '10.13.6', java.version: '1.8.0_181'
+Driver info: org.openqa.selenium.chrome.ChromeDriver
+Capabilities {acceptInsecureCerts: false, acceptSslCerts: false, applicationCacheEnabled: false, browserConnectionEnabled: false, browserName: chrome, chrome: {chromedriverVersion: 71.0.3578.33 (269aa0e3f0db0..., userDataDir: /var/folders/3p/pnh68xlj58n...}, cssSelectorsEnabled: true, databaseEnabled: false, goog:chromeOptions: {debuggerAddress: localhost:49668}, handlesAlerts: true, hasTouchScreen: false, javascriptEnabled: true, locationContextEnabled: true, mobileEmulationEnabled: false, nativeEvents: true, networkConnectionEnabled: false, pageLoadStrategy: normal, platform: MAC, platformName: MAC, rotatable: false, setWindowRect: true, takesHeapSnapshot: true, takesScreenshot: true, unexpectedAlertBehaviour: , unhandledPromptBehavior: , version: 77.0.3865.120, webStorageEnabled: true}
+Session ID: 145cf7e63255101772fd0bd36f5f09f7

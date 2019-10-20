@@ -1,0 +1,41 @@
+<settings xmlns="http://maven.apache.org/SETTINGS/1.0.0"
+          xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+          xsi:schemaLocation="http://maven.apache.org/SETTINGS/1.0.0
+                      https://maven.apache.org/xsd/settings-1.0.0.xsd">
+    <profiles>
+        <profile>
+            <id>default</id>
+            <activation>
+                <activeByDefault>true</activeByDefault>
+            </activation>
+
+            <repositories>
+                <repository>
+                    <id>rti-snapshot-local</id> 
+                    <name>rti-snapshot-local</name> 
+                    <snapshots>
+                        <enabled>true</enabled>
+                    </snapshots>
+                    <releases>
+                        <enabled>false</enabled>
+                    </releases>
+                    <url>http://artifactory.itsshared.net:8081/artifactory/list/rti-snapshot-local/</url>
+                </repository>
+                <repository>
+                    <id>rti-release-local</id> 
+                    <name>rti-release-local</name> 
+                    <snapshots>
+                        <enabled>false</enabled>
+                    </snapshots>
+                    <releases>
+                        <enabled>true</enabled>
+                    </releases>
+                    <url>http://artifactory.itsshared.net:8081/artifactory/list/rti-release-local/</url>
+                </repository>
+            </repositories>
+
+        </profile>
+    </profiles>
+    <servers>
+    </servers>
+</settings>
